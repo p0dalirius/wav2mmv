@@ -10,7 +10,7 @@
 
 
 
-This script converts a file from WAV format to MMV format. You can then use the MMV file in input of MSSTV to decode Slow Scan Television (SSTV) sound signals.
+This script converts a file from WAV format to MMV format. You can then use the MMV file in input of [MMSSTV](https://hamsoft.ca/pages/mmsstv.php) to decode Slow Scan Television (SSTV) sound signals.
 
 ## Features
 
