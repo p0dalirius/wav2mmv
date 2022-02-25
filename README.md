@@ -3,6 +3,7 @@
 <p align="center">
   A ffmpeg wrapper to convert a file from wav to mmv file to use in input of MSSTV
   <br>
+  <img src="https://badges.pufler.dev/visits/p0dalirius/wav2mmv/"/>
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/p0dalirius/wav2mmv">
   <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
   <br>
